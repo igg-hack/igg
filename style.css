@@ -1,7 +1,7 @@
 body
 
 {
-   background:"3CB50136-1818-47B8-BAB4-F2391F20D9A1.jpeg"
+   background: url(3CB50136-1818-47B8-BAB4-F2391F20D9A1.jpeg);
    color: #fff;
    font-family: sans-serif;
 }
