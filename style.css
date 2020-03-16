@@ -1,0 +1,34 @@
+body
+
+{
+   background: #203a43;
+   color: #fff;
+   font-family: sans-serif;
+}
+
+.aa
+{
+   whidth: 120px;
+   border-radius: 10px;
+
+}
+
+
+
+.ee
+{
+   width: 30%;
+   size: 1px;
+   margin-top: 50px;
+}
+
+.bb
+{
+   color: #ffd452;
+   text-decoration: none;
+   border: #ccc 2px solid;
+   padding: 5px 15px;
+   border-radius: 10px;
+
+
+}
