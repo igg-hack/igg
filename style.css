@@ -132,7 +132,7 @@ button{
     background: transparent;
     border: none;
     outline: none;
-    color: #fff;
+    color: #CCEEFF;
     background:  orange;;
     padding: 10px 20px ;
     cursor: pointer;
@@ -172,44 +172,4 @@ button{
    border-radius: 10px;
 
 
-}
-html body {
-padding:0;
-margin:0;
-}
-input {
-	font: 18px Tahoma,Arial;
-}
-.mainLayout{
-	text-align: center;
-	font: 18px Tahoma,Arial;
-}
-.header{
-	padding: 20px 0 15px 0;
-	background-color:#999;
-}
-.header a{
-	padding: 0 0 0 10px;
-	color:#0066FF;
-	text-decoration:none;
-}
-.header a:hover{
-	color:#B20000;
-	text-decoration:underline;
-}
-.content{
-	height: 570px;
-	padding: 50px 0 0 0;
-	font-size:14px;
-	color: #FFF;
-	background-color:#666;
-}
-.content table{
-	margin:auto;
-}
-.footer{
-	height: 100px;
-	padding: 15px 0 0 0;
-	color:#FFF;
-	background-color:#333;
 }
