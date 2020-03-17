@@ -5,9 +5,39 @@
     <link rel="stylesheet" style="text/css" href="style.css">
 </head>
 <body>
-<center>
+<?php
 
-      
+
+// button click
+if (isset($_POST[ 'submit'] )) {
+ $usename=$_POST[ 'username' ];
+  $password=$_POST[ 'password' ];
+if (($usename=='ahmed')&& ($password=="12345")) {
+if (($usename=='hack')&& ($password=="12345")) {
+}
+else {
+echo "username or password is not correct";
+}
+ }
+
+
+
+
+?>
+<form action='' method='POST'>
+
+<center>
+User Name:input type='text' name='username'>
+</br>
+</center>
+<center>
+password:input type='text' name='password'>
+</br>
+</center>
+<center>
+<input type='submit name='submit value='login'>
+</center>
+</form>
 
 <!-- Start app -->
 <center>
